@@ -12,4 +12,4 @@ Veja a playlist no Youtube: https://www.youtube.com/playlist?list=PL8ZM6t-oKnXdy
 Veja a pasta docs.
 
 ## Código
-Veja a pasta Scripts.
+Veja a pasta code.
