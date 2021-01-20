@@ -11,15 +11,12 @@ uint8_t DXw[16] = {2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2};
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-// Token do meu projeto (Felipe): A2d3RGwoPfdfVMIAelKNz3_tzrodyBSd
-// Token 2 (Felipe): vhCN_rP6T0v7fnvOhBpTNI95j5mNRK4d
-// Token do Victor: g2S1xJj780Pi1StZio7D5OS4Mr_pwzlt;
-char auth[] = "aadAytoWk85fG1OEV9DYaHNCY3D34_ai";
+char auth[] = "TOKEN_BLYNK";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "LAB_DIGITAL";
-char pass[] = "C1-17*2018@labdig";
+char ssid[] = "SSID";
+char pass[] = "PASSWORD";
 
 uint32_t prev_millis;
 uint32_t ms_cnt=0;
